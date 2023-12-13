@@ -14,5 +14,7 @@ public class GitTest {
 
 		System.out.println("push commit1");
 
+		System.out.println("我在远程库中删除了一个ignore文件，和添加了这一行代码；现在使用idea，pull拉取代码（更新作用）");
+
 	}
 }
